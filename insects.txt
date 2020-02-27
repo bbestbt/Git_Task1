@@ -2,6 +2,7 @@ Ant
 Bee
 Butterfly
 Caterpillar
+Cockroach
 Dragonfly
 Fly
 Gnat
@@ -9,6 +10,7 @@ Grasshopper
 Hornet
 Locust
 Louse
+Mosquito
 Scorpion
 Spider
 Stinkbug
