@@ -1,0 +1,15 @@
+Bee
+Butterfly
+Caterpillar
+Dragonfly
+Fly
+Gnat
+Grasshopper
+Locust
+Louse
+Scorpion
+Spider
+Stinkbug
+Termite
+Wasp
+Worm
