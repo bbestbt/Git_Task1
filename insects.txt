@@ -6,6 +6,7 @@ Dragonfly
 Fly
 Gnat
 Grasshopper
+Hornet
 Locust
 Louse
 Scorpion
